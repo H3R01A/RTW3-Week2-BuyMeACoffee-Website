@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#ABI
+/utils/BuyMeACoffee.json
